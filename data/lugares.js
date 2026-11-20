@@ -1,7 +1,7 @@
 // Cópia de lugares.json para abrir o site direto do computador.
 window.ATLAS_DADOS = {
  "versao": 2,
- "salvo_em": "2026-11-19T00:25:35.270Z",
+ "salvo_em": "2026-11-20T12:40:03.225Z",
  "mapa": {
   "titulo": "Thalasyr",
   "W": 7000,
@@ -42,6 +42,13 @@ window.ATLAS_DADOS = {
    "cor": "#2f7a4b",
    "icone": "",
    "aba": ""
+  },
+  {
+   "id": "t-mwo7wxqban9lz",
+   "nome": "Portões",
+   "cor": "#1f7f86",
+   "icone": "torre",
+   "aba": ""
   }
  ],
  "lugares": [
@@ -59,21 +66,41 @@ window.ATLAS_DADOS = {
      "legenda": ""
     },
     {
-     "img": "imagens/img-mwmbtht3k093n.webp",
+     "img": "imagens/img-mwmbthszkh938.webp",
      "legenda": ""
     },
     {
-     "img": "imagens/img-mwmbthszkh938.webp",
+     "img": "imagens/img-mwo5nc1ewmsbf.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmbtht3k093n.webp",
      "legenda": ""
     }
    ],
    "historia": "Com três andares de altura e cercada por luzes dançantes e espetáculos ilusórios, o Antro do Mago (The Wizard's Watering Hole) convida todos os forasteiros a visitá-lo. Esta taverna amplamente renomada estabeleceu uma reputação de empolgação e estranheza arcana. A taverna aparentemente funciona sozinha, conjurando todos os seus bens e serviços a partir de magias poderosas e permanentes.",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo4vgtnhny62.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo4vgti0powa.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
-      "img": "imagens/img-mwmg3rggyn0go.webp",
+      "img": "imagens/img-mwo4vufynktvo.webp",
+      "legenda": "",
+      "mestre": false
+     },
+     {
+      "img": "imagens/img-mwo4vufurtqv6.webp",
       "legenda": "",
       "mestre": false
      }
@@ -101,11 +128,26 @@ window.ATLAS_DADOS = {
     {
      "img": "imagens/img-mwmdighr6kcsu.webp",
      "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo5tx2oz0lma.webp",
+     "legenda": ""
     }
    ],
    "historia": "A aventura é um negócio arriscado. A maioria dos que se aventuram acaba sendo levada pela própria aventura antes do fim do ano. Para os que vivem mais tempo, a mera sobrevivência é o melhor que podem esperar. Mas para os poucos selecionados cuja astúcia ardilosa e propensão à violência bastam para lhes abençoar com carreiras longas e prósperas, a riqueza e a fama que conquistam são suficientes para tornar seu sofrimento válido a pena. Essas pessoas são o melhor do melhor, convidadas para as Lâminas da Glória (Blades of Glory), uma guild lendária de aventureiros lendários.\n\nO Salão das Lâminas é construído com colunas de mármore negro como as de um banco e frisos folheados a ouro como os de um templo. Aparentemente, é uma estalagem. Alguns mercadores ricos e nobres viajantes hospedam-se em seus quartos inferiores, maravilhando-se com o modo como a luz dos lustres de cristal do saguão cintila nas paredes de cor verde-negra revestidas de adamantina, sem saber dos segredos que essas paredes ocultam.\n\nAos olhos do mundo, os aventureiros parecem todos jovens arrivistas ávidos por riqueza rápida, mas as Lâminas da Glória são dignas e orgulhosas de sua história. Apresentam-se como nobreza de origem humilde, cuja riqueza é conquistada em suas aventuras e não herdada. Os móveis ricos em mogno do Salão da Glória, as tapeçarias históricas e o senso de estilo impecavelmente elegante certamente dão essa impressão. Aqueles convidados para as fileiras das Lâminas da Glória podem usufruir de suas salas de troféus, bibliotecas, gabinetes de estudo, salões, salas de degustação, aposentos privados e arsenais. É o centro único para o aventureiro de bom gosto e prestígio.\n\nEmbora seu andar mais baixo seja um hotel caro, seus andares superiores são reservados para sua clientela verdadeiramente poderosa de aventureiros poderosos. Ninguém tem permissão para saber onde fica este estabelecimento e, mais importante ainda, nenhum outro tem permissão sequer de saber de sua existência para começar.",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6w49s36av1.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6w49hz5n7e.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -139,21 +181,41 @@ window.ATLAS_DADOS = {
      "legenda": ""
     },
     {
-     "img": "imagens/img-mwmeo1m91r8tz.webp",
+     "img": "imagens/img-mwmebz7747leu.webp",
      "legenda": ""
     },
     {
-     "img": "imagens/img-mwmebz7747leu.webp",
+     "img": "imagens/img-mwo5oga11qhzt.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmeo1m91r8tz.webp",
      "legenda": ""
     }
    ],
    "historia": "A taverna The Bloated Bounty é o epítome das tavernas obscuras de becos, e serve como o lugar perfeito para uma mistura de falcatruas e planejamento criminoso. As nuances sutis das transações que ocorrem aqui são quase impossíveis de decifrar para qualquer um, exceto para um ladino  extremamente atento. Os visitantes fariam bem em ficar de olho nas costas, não demorar muito e ter cuidado para não escutar atrás das portas. O atrativo do Bloated Bounty está no seu nome, todos os trabalhos oferecidos aqui são de alto risco e alta recompensa.\n\nO Bloated Bounty é um edifício grande e discreto em uma parte abandonada da cidade. A maneira mais fácil de saber sobre o Bloated Bounty é através dos nobres corruptos ou criminosos poderosos que frequentam o lugar. O grupo pode ser convidado para o local para uma reunião clandestina, seguir um rival até o edifício, ou tropeçar nele como uma cruel fatalidade. O exterior sem graça e as paredes grossas escondem completamente a corrupção e a maldade lá dentro...",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo59rlntsbhe.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo59rlrfql1l.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo59rlib2zye.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
-      "img": "imagens/img-mwmebsy7qt7vq.webp",
+      "img": "imagens/img-mwo5akjms1dzd.webp",
       "legenda": "",
       "mestre": false
      }
@@ -183,6 +245,10 @@ window.ATLAS_DADOS = {
      "legenda": ""
     },
     {
+     "img": "imagens/img-mwo5p7dx4wued.webp",
+     "legenda": ""
+    },
+    {
      "img": "imagens/img-mwmewwgnufvz5.webp",
      "legenda": ""
     },
@@ -193,7 +259,18 @@ window.ATLAS_DADOS = {
    ],
    "historia": "The Dancing Horse repousa no centro do Distrito Leste, cercado por barracas de comerciantes e estábulos para atender a todas as necessidades de um viajante. Os moradores da cidade se referem a este ponto de convívio como “um segundo lar”, deleitando-se com a energia festiva e embriagada que prevalece a cada pôr do sol. Tendo aberto inicialmente para receber viajantes, este local generoso tem acomodações e pensão para membros de todos os tipos.\n\nO Cavalo Dançante é o que todas as tavernas e estalagens almejam ser. Com toda a magia e nuances da fantasia à parte, este é um refúgio de tudo, exceto das intrigas dos viajantes. A maioria dos hóspedes que visita o Cavalo Dançante tem negócios em outro lugar e, de uma forma nada natural, suas tarefas sempre têm grande importância, mesmo que eles não tenham consciência disso. ",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo5cvz0e5gse.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5cvynarkzo.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -227,21 +304,32 @@ window.ATLAS_DADOS = {
      "legenda": ""
     },
     {
-     "img": "imagens/img-mwmfcezoosspc.webp",
+     "img": "imagens/img-mwmfcf00mdq6n.webp",
      "legenda": ""
     },
     {
-     "img": "imagens/img-mwmfcf00mdq6n.webp",
+     "img": "imagens/img-mwmfcezoosspc.webp",
      "legenda": ""
     }
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo5dx8qvk5dg.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5dx8nqophv.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
-      "img": "imagens/img-mwmfctk4g5v3g.webp",
+      "img": "imagens/img-mwo5e76m7n801.webp",
       "legenda": "",
       "mestre": false
      }
@@ -275,15 +363,46 @@ window.ATLAS_DADOS = {
      "legenda": ""
     },
     {
+     "img": "imagens/img-mwo5pzcvht50q.webp",
+     "legenda": ""
+    },
+    {
      "img": "imagens/img-mwmfiwej1pkrn.webp",
      "legenda": ""
     }
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo5i32wsm0s6.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5i32tz3x6f.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5i32ovclok.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
-    "imagens": [],
+    "imagens": [
+     {
+      "img": "imagens/img-mwo5ilzv47482.webp",
+      "legenda": "",
+      "mestre": false
+     },
+     {
+      "img": "imagens/img-mwo5ilzy7bbyv.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
     "notas": ""
    },
    "catalogo": {
@@ -313,15 +432,41 @@ window.ATLAS_DADOS = {
      "legenda": ""
     },
     {
+     "img": "imagens/img-mwo4udfh2mvl6.webp",
+     "legenda": ""
+    },
+    {
      "img": "imagens/img-mwmfr4nogzs67.webp",
      "legenda": ""
     }
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo4szw0obh9q.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo4ta252p2yw.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
-    "imagens": [],
+    "imagens": [
+     {
+      "img": "imagens/img-mwo4rz3qm7wg9.webp",
+      "legenda": "",
+      "mestre": false
+     },
+     {
+      "img": "imagens/img-mwo4rz3uedps2.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
     "notas": ""
    },
    "catalogo": {
@@ -353,7 +498,18 @@ window.ATLAS_DADOS = {
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6wd6t2gt7i.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6wd6pbd88a.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -393,7 +549,18 @@ window.ATLAS_DADOS = {
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6wnx6jopbn.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6wnx34z9ga.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -433,7 +600,23 @@ window.ATLAS_DADOS = {
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6xbox0vb81.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6xbot3t5ab.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6xboh7a6mn.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -475,7 +658,13 @@ window.ATLAS_DADOS = {
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6zo3ymia8z.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -515,7 +704,18 @@ window.ATLAS_DADOS = {
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo7163pixf6u.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo7163ea2d2l.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -555,7 +755,13 @@ window.ATLAS_DADOS = {
    ],
    "historia": "",
    "elenco": [],
-   "elencoImagens": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo71e01v9a09.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
    "mapa": {
     "imagens": [
      {
@@ -1011,8 +1217,8 @@ window.ATLAS_DADOS = {
    "num": 30,
    "nome": "Arcane Store",
    "tipo": "t-mwmn0kjpg7457",
-   "x": 3796,
-   "y": 4110,
+   "x": 3363.1,
+   "y": 3581.9,
    "secreto": false,
    "arte": [
     {
@@ -1114,8 +1320,8 @@ window.ATLAS_DADOS = {
    "num": 34,
    "nome": "Portal 2",
    "tipo": "t-mwmnsbukdw5fy",
-   "x": 3197.8,
-   "y": 7277.9,
+   "x": 3212.2,
+   "y": 7273.8,
    "secreto": false,
    "arte": [],
    "historia": "",
@@ -1398,12 +1604,33 @@ window.ATLAS_DADOS = {
   {
    "id": "l-mwmo4mx711gzq",
    "num": 47,
-   "nome": "Alto Forum",
+   "nome": "Alto Forum -  Magistrado Central",
    "tipo": "t-mwmo4mx777k01",
    "x": 3026.5,
    "y": 5887.8,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo8tn3b0uiu8.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxwt48km0.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxww9n7m1.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxwznrtku.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxx1ynkxr.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1420,12 +1647,21 @@ window.ATLAS_DADOS = {
   {
    "id": "l-mwmo67mti69z6",
    "num": 48,
-   "nome": "Conselho Popular",
+   "nome": "Conselho das Vozes",
    "tipo": "t-mwmo4mx777k01",
    "x": 3463,
    "y": 5847.3,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo8qtiba25gn.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8qti0wrzew.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1447,7 +1683,12 @@ window.ATLAS_DADOS = {
    "x": 3213.2,
    "y": 6131.6,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo8p9z1tjfs5.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1469,7 +1710,16 @@ window.ATLAS_DADOS = {
    "x": 2635.3,
    "y": 6131.6,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7nyrg6bi3o.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7sc68ikngm.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1491,7 +1741,16 @@ window.ATLAS_DADOS = {
    "x": 3310.8,
    "y": 5463.2,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7kmm3uyxwu.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyk5vh81ut0.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1510,10 +1769,19 @@ window.ATLAS_DADOS = {
    "num": 52,
    "nome": "Portal Principal (Desativado)",
    "tipo": "t-mwmo4mx777k01",
-   "x": 2980.2,
-   "y": 6219.6,
+   "x": 2989.7,
+   "y": 6221.9,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwoyqlkkvx9qn.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyqlko59z9l.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1535,7 +1803,12 @@ window.ATLAS_DADOS = {
    "x": 2269,
    "y": 4504.7,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo5jrpsrkqiz.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1557,7 +1830,12 @@ window.ATLAS_DADOS = {
    "x": 2260.7,
    "y": 3967.2,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo90f34ntsmx.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1579,7 +1857,12 @@ window.ATLAS_DADOS = {
    "x": 2619.8,
    "y": 4238.3,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo906dd67gx7.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1598,10 +1881,19 @@ window.ATLAS_DADOS = {
    "num": 56,
    "nome": "Porto de Ferro / Docas de Airships",
    "tipo": "t-mwmo4mx777k01",
-   "x": 1947.9,
-   "y": 3504.6,
+   "x": 1899.6,
+   "y": 3395.5,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo78ooximhck.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo78op84adr4.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1620,10 +1912,15 @@ window.ATLAS_DADOS = {
    "num": 57,
    "nome": "Amazém e Cofres da Guilda de Navegadores",
    "tipo": "t-mwmo4mx777k01",
-   "x": 1911.1,
-   "y": 3389.2,
+   "x": 1961.8,
+   "y": 3464.5,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo79guqpb4hr.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1672,7 +1969,12 @@ window.ATLAS_DADOS = {
    "x": 2685.8,
    "y": 3182,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7t3pa28ama.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1694,7 +1996,24 @@ window.ATLAS_DADOS = {
    "x": 4072.9,
    "y": 4006.5,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7pfuuig31p.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7pfuypm49q.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7pfv04qj4s.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo93fki7q737.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "Torres dos magos e ligas de artificers",
    "elenco": [],
    "elencoImagens": [],
@@ -1711,12 +2030,29 @@ window.ATLAS_DADOS = {
   {
    "id": "l-mwmofuqkdqeu1",
    "num": 61,
-   "nome": "Biblioteca Cnetral",
+   "nome": "Biblioteca Central",
    "tipo": "t-mwmo4mx777k01",
    "x": 5556,
    "y": 3952.9,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo8uqrzju1xt.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7ro0l8u0hi.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7ttiy7loaa.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo92lli5be5h.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1765,7 +2101,12 @@ window.ATLAS_DADOS = {
    "x": 2578.1,
    "y": 2532.9,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo86zbbkcrv6.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1789,7 +2130,19 @@ window.ATLAS_DADOS = {
    "secreto": false,
    "arte": [
     {
-     "img": "imagens/img-mwmpnhrix4cx0.webp",
+     "img": "imagens/img-mwo8x7nfvsldr.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo87i68aqac9.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8x7njsuy49.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyu1njv7mml.webp",
      "legenda": ""
     }
    ],
@@ -1811,10 +2164,23 @@ window.ATLAS_DADOS = {
    "num": 65,
    "nome": "Arsenal Municipal",
    "tipo": "t-mwmo4mx777k01",
-   "x": 4026,
-   "y": 6780,
+   "x": 4019.5,
+   "y": 6771.3,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo8w6j63ap6b.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8od4ibbhwf.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8od4l0hqqm.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "Aqui é onde ficam as armas e armaduras produzidas para a guarda, bem como maquinas de cerco e armamentos mais peculiares",
    "elenco": [],
    "elencoImagens": [],
@@ -1836,7 +2202,12 @@ window.ATLAS_DADOS = {
    "x": 4070,
    "y": 8523,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7mwgyypsoh.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1858,7 +2229,20 @@ window.ATLAS_DADOS = {
    "x": 3420,
    "y": 7574.3,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7m5jc3e6e1.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7m5j80y34s.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7m5iyf9aje.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "Trabalhadores são os valerianos",
    "elenco": [],
    "elencoImagens": [],
@@ -1880,7 +2264,16 @@ window.ATLAS_DADOS = {
    "x": 2746,
    "y": 7840.3,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwoyjkiir1mts.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyjki7wglo3.webp",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1902,7 +2295,20 @@ window.ATLAS_DADOS = {
    "x": 4560,
    "y": 2652,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7eww6zlfrs.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7e2oq607cf.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7e2ou7fq7g.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1924,7 +2330,20 @@ window.ATLAS_DADOS = {
    "x": 4344.1,
    "y": 3615.9,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwo7v0b4k95kp.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo91f1eab9rm.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo92426sxrqo.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1943,10 +2362,15 @@ window.ATLAS_DADOS = {
    "num": 71,
    "nome": "Farol",
    "tipo": "t-mwmo4mx777k01",
-   "x": 1172,
-   "y": 6679,
+   "x": 1032.6,
+   "y": 6818,
    "secreto": false,
-   "arte": [],
+   "arte": [
+    {
+     "img": "imagens/img-mwoy9qw5yf8vb.jpg",
+     "legenda": ""
+    }
+   ],
    "historia": "",
    "elenco": [],
    "elencoImagens": [],
@@ -1971,6 +2395,189 @@ window.ATLAS_DADOS = {
    "arte": [
     {
      "img": "imagens/img-mwmq0gpng6o64.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo6asd4up4or",
+   "num": 73,
+   "nome": "House of Favelli",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 4052.8,
+   "y": 5437.1,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo6hg8lt8c1y.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo6iyrp2wiae.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6hpwev5xjo.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo6hm4is8z7w.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwo6hx595t9ah.webp",
+     "imagens/img-mwo6hx574pr6c.webp",
+     "imagens/img-mwo6hx4s1eq9t.webp",
+     "imagens/img-mwo6hx53k4ozl.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo7wxqbgjfbr",
+   "num": 74,
+   "nome": "Golden Gate / Portão Sul",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 3480,
+   "y": 8706,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7yx9ix91el.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo8080yihyf2",
+   "num": 75,
+   "nome": "Bronze Gate / Portão da Costa",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 2264,
+   "y": 8384,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo80fxaa4rim.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo848z2mej6s",
+   "num": 76,
+   "nome": "Silver Gate / Portão Leste",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 6034,
+   "y": 4906.7,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo84gtwg87bj.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo8ije5xqjhy",
+   "num": 77,
+   "nome": "Brass Gate / Portão Norte",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 2225,
+   "y": 2139.2,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8iq6zhv8zj.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo8m8ohepoiy",
+   "num": 78,
+   "nome": "Copper Gate / Portão das Montanhas",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 3747,
+   "y": 1325.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8mf2v7bu4h.jpg",
      "legenda": ""
     }
    ],
