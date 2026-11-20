@@ -1,6 +1,6 @@
 {
  "versao": 2,
- "salvo_em": "2026-11-20T12:40:03.225Z",
+ "salvo_em": "2026-11-20T14:20:17.022Z",
  "mapa": {
   "titulo": "Thalasyr",
   "W": 7000,
@@ -311,7 +311,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Poor Larry's já foi a Lucky Larry's, uma taverna de família cheia de vida, e a placa na porta ainda anuncia “Larry's & Sons”. Os filhos se foram, cada um por um motivo, Nova, a esposa, morreu, e hoje Larry Baker toca tudo sozinho. Dá para ver: o musgo tomou o telhado, a hera sobe pelas paredes e o jardim que era de Nova virou mato.\n\nLarry é um homem exausto de uns quarenta e cinco anos, careca sob uma touca azul gasta, que trata cada hóspede como filho e faz questão de ajudar em tudo. E tudo dá errado: a bandeja voa, a mala abre no meio da escada, o próprio Larry rola degraus abaixo. Muita gente vem só pelo espetáculo, e ele não se importa. Diz que fica feliz em alegrar as pessoas, seja como for.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -370,7 +370,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "The Grand Chanty é um antigo navio pirata, o *Pig's Whistle*, ancorado para sempre no Porto Velho e transformado em taverna flutuante. Quem manda a bordo é a comandante Artimesia Faulistus, que passou anos caçando piratas em mares bravos. Na última caçada ela perdeu as pernas e, como recompensa pelos serviços, ganhou o navio do pirata que tanto perseguiu. Aposentou o barco, montou o bar no convés principal e passou a alugar as cabines do castelo de proa.\n\nO nome vem dos fantasmas. Todo dia, ao amanhecer e ao entardecer, um coro de marinheiros espectrais aparece cantando para cuidar do navio, e o bar inteiro se cala para ouvir. A comandante ainda veste o uniforme, circula pelos conveses na sua cadeira de rodas e mantém um quadro de serviços para quem procura trabalho.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -439,7 +439,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "The Dungeon of Darkness fica na beira dos Escombros do Lamento e é a única taverna da cidade em que quase todos os funcionários estão mortos. Atrás do balcão está Bob, um esqueleto de quase dois metros e meio, de avental bordado com corações cor-de-rosa e chapéu de pena, que não diz uma palavra mas escuta como ninguém. Bobby, um esqueleto halfling, ajuda com as bebidas, e a cozinha é de uma baronesa vampira que às vezes passa pelas mesas perguntando se a comida está boa. Convém dizer que sim.\n\nQuem recebe os clientes é Miss Linger, um fantasma de armadura completa que nunca tira o elmo. O grande atrativo da casa fica embaixo: masmorras de verdade, em níveis, onde grupos de aventureiros se testam contra os mortos-vivos da casa, depois de ouvir as instruções de Miss Linger. Numa cidade que tranca os cemitérios ao anoitecer, o lugar vive cercado de boatos.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -495,7 +495,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Wayward Wheel é a oficina-loja da inventora Emmeline, montada a bordo do *Sea Swarm*, um navio voador sustentado por um grande balão. Quando passa por Thalasyr, o navio atraca no Distrito do Saber, à sombra da Torre do Lacre, e a vizinhança sai para ver.\n\nA loja vende engenhocas mágicas e pequenos constructos: lançadores mecânicos que disparam nuvens de esferas de aço, adagas que viram criaturinhas de lâminas e engrenagens e mecanismos sob encomenda. Quem fabrica é a tripulação: Lamai, maga anã apaixonada por constructos, um tanto desastrada, que trabalha no convés sempre que faz sol; Tink, artífice kobold que produz o estoque com paciência infinita e ensina os aprendizes; e Sunak, elemental do ar que mora dentro do balão e comanda os mefites de vapor que mantêm o navio no alto.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -546,7 +546,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Descendo uma escada sem placa nos Becos do Sal, perto da Entrância dos Portais, fica The Basement, a loja de quem vive de segredos. Quem manda é uma senhora de cabelos brancos conhecida só como Mastermind, e cada funcionário atende por um codinome: Muscle prepara poções no laboratório dos fundos, Brain copia pergaminhos de magia à mão na biblioteca, Diversion faz disfarces e joias, e Graduate, neta da dona, quase nunca aparece.\n\nNas prateleiras há broches que apagam a assinatura mágica de quem os usa, vestidos que copiam qualquer roupa em que se encosta e pares de placas que trocam mensagens à distância. Para clientes de confiança, há também o que não fica à vista. No saguão, os funcionários treinam luta entre um atendimento e outro, e não é raro juntar plateia.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -597,7 +597,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A Seeker’s Big House for Planar Pets parece um pet shop, mas funciona mais como uma prisão com programa de adoção. A Seeker, uma exploradora de pele vermelha e chapéu de expedição, viaja pelos planos recolhendo criaturas que aprontaram alguma encrenca cósmica, e cada uma cumpre pena na sua cela.\n\nQuem quiser pode adotar um dos detentos e levá-lo nas aventuras: um trio de hamsters acrobatas que se atiram como balas de canhão, um chapéu de tentáculos que já foi um monstro dos mares, um dado dourado que um dia foi venerado como profeta de um reino inteiro. Quem adota passa a responder pela criatura, e ela só obedece a quem cuida dela. No ombro da Seeker vive Gu'Gu, um saguizinho de quatro braços que adora nozes e fala qualquer língua, só que mal.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -642,8 +642,8 @@
    "num": 11,
    "nome": "The Black Market",
    "tipo": "t-mwmd9ios34r0t",
-   "x": 4695.6,
-   "y": 7470.5,
+   "x": 4534,
+   "y": 7298,
    "secreto": false,
    "arte": [
     {
@@ -655,7 +655,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Ninguém indica o Black Market em voz alta. A loja é de Diop, o lendário Ladrão Cavalheiro, e vende o que o mundo perdeu: peças levadas em golpes famosos, relíquias de reinos esquecidos e objetos que todos davam por destruídos. Cada item tem uma história, e muitos têm também um antigo dono que adoraria reavê-lo.\n\nJosephine Pellegrini, a primeira funcionária da casa, negocia informações: por um preço, descobre os segredos de um inimigo ou o paradeiro de alguém. A segurança fica, quando ele tem vontade, por conta de Ganimard Guedira, um orc de presas brancas que passou anos caçando Diop como inspetor e hoje, aposentado, jura estar do lado da verdadeira justiça.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -701,7 +701,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "The Hedgerow é uma estufa no vale dos Jardins Suspensos, mais floresta do que loja, com plantas subindo do chão até o teto de vidro. Quem cuida de tudo é Bramble, uma pixie de asas de libélula, e o trabalho miúdo fica com os shrublets, arbustinhos vivos que varrem a terra derramada, endireitam os vasos e devolvem as coisas às prateleiras.\n\nPara os moradores de dedo verde, a casa vende ferramentas e materiais de jardinagem encantados. Para os aventureiros, itens cultivados de plantas mágicas, como luvas de dedaleira que soltam espinhos venenosos e uma cota de malha coberta de trepadeiras que agarram quem erra o golpe. No pomar da estufa vive Cyprissa, uma dríade ligada a uma árvore que veio parar aqui sem querer. Entediada, ela passeia entre as plantas e ajuda os visitantes simpáticos a não se perderem.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -752,7 +752,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Daydee's Magical Muffins é a confeitaria mais colorida dos Canais, com a vitrine lotada de bolos, tortas e muffins e um cheiro de açúcar que chega até as pontes. A dona é Daydee deMinth, uma gnoma de cabelo rosa cujos doces têm efeitos mágicos de verdade: alguns fazem as vezes de poção, outros são bem mais poderosos. Para aventureiros, ela também encanta armas contra diabos.\n\nOs clientes quase só falam com Daydee. Nos fundos, quem busca os ingredientes, mistura a massa e tira as fornadas é o irmão dela, Dremen, um gnomo da floresta de boné verde, simples e de bom coração. A ajudante, Magenti Plouh, chegou poucas semanas depois da inauguração, com ótimas referências, e diz ter sorte de aprender com uma mestra dessas.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -793,7 +793,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja de engenhocas e peças avulsas no Distrito do Saber, a uma quadra do Colégio dos Astrônomos. Vende ferramentas de artífice, engrenagens, molas, lentes e pequenos mecanismos, e conserta quase tudo o que tenha uma peça móvel. Estudantes e artífices do bairro são a maior parte da clientela.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -820,7 +820,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja de artigos religiosos no Distrito dos Templos, perto do Templo da Praça dos Cultos. Vende símbolos sagrados de quase todos os deuses venerados na cidade, velas, incensos, água benta, livros de orações e oferendas prontas para quem vai aos templos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -847,7 +847,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Alfaiataria e loja de tecidos no Distrito Leste, a dois passos da Loja do Aventureiro. Faz e conserta roupas comuns, de viagem e de festa, e vende os tecidos que chegam com as caravanas, da lã grossa às sedas estrangeiras.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -874,7 +874,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Estábulo e loja de montaria no Distrito Leste, perto do Portão Leste e do Posto do Pedágio das Rotas. Aluga e vende cavalos, mulas e pôneis, guarda os animais de quem chega e vende selas, arreios, ferraduras, forragem e carroças.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -901,7 +901,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja de instrumentos musicais no Distrito Alto, a poucos passos do Teatro das Máscaras. Vende e afina alaúdes, flautas, violas, tambores e harpas, e tem partituras para quem precisa de repertório novo. Os músicos do teatro passam por aqui antes das estreias.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -928,7 +928,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Oficina de couro no Distrito Manufatureiro, perto do Curtume do Canal. Faz armaduras de couro, selas, botas, cintos, bainhas, mochilas e alforjes, sob medida ou prontos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -955,7 +955,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Joalheria no Distrito Alto, para a clientela dos palacetes. Compra e vende pedras preciosas, anéis, colares e broches, avalia joias e faz peças sob encomenda. Também vende as pedras e os pós que alguns feitiços exigem.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -982,7 +982,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Estalagem e taverna nos Canais, perto da Grande Biblioteca. Quarto limpo, comida quente e cerveja a preço honesto, e um bom lugar para ouvir as notícias do dia.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1009,7 +1009,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Armazém geral no Distrito Leste, no caminho das caravanas. Vende um pouco de tudo para a casa e para a estrada: cordas, lampiões, mantimentos, panelas, ferramentas, tecidos e o equipamento básico de qualquer viagem.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1036,7 +1036,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Oficina de arcos, flechas e marcenaria no Distrito Manufatureiro. Faz arcos, bestas, flechas e virotes, além de escudos de madeira, cabos de ferramenta, baús e móveis sob encomenda.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1063,7 +1063,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja de ervas e artigos druídicos nos Jardins Suspensos. Vende ervas, sementes, raízes e cogumelos, kits de herbalismo, focos druídicos de madeira e pedra e remédios simples, muitos colhidos nos próprios socalcos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1090,7 +1090,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja do porto na Cidade Velha, perto da Alfândega Velha. Vende cordas, velas de navio, redes, anzóis, lonas, piche, lampiões e mantimentos para viagem por mar, e aluga barcos pequenos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1117,7 +1117,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Uma loja sem placa no Distrito Sul, perto do porto. Para quem sabe pedir, vende ferramentas de ladrão, venenos, documentos falsos, disfarces e mercadoria sem procedência, e não faz perguntas.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1144,7 +1144,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Encadernador e antiquário no Distrito do Saber, perto do Colégio de Alquimia. Vende livros novos e usados, papel, tinta, penas e cadernos, encaderna e restaura volumes, e compra mapas e manuscritos antigos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1171,7 +1171,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Casa bancária no Porto de Ferro, no Distrito Financeiro. Guarda dinheiro e objetos de valor, troca moedas de outras cidades e emite cartas de crédito para quem vai viajar.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1198,7 +1198,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Ferraria e armeiro no Distrito Manufatureiro, entre as oficinas e serrarias do bairro. Forja armas e armaduras de metal, faz reparos, ferra cavalos e vende ferramentas e peças de ferro.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1225,7 +1225,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja de artigos arcanos no Distrito Alto. Vende componentes de magia, focos arcanos, varinhas e cajados comuns, tinta e papel para pergaminhos e, de vez em quando, uma poção ou um item mágico menor.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1252,7 +1252,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Boticário e laboratório de alquimia junto à Torre do Relógio, entre o Distrito Alto e os Jardins Suspensos. Vende poções de cura, antídotos, fogo alquímico, ácido, ervas medicinais e instrumentos de alquimia, e prepara remédios sob encomenda.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1279,7 +1279,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Loja de equipamento de aventura no Distrito Leste, perto dos Estábulos das Caravanas. Tudo para quem vai às Wilds: mochilas, tendas, rações, cordas, lampiões, kits de escalada e de primeiros socorros, mapas da região e conselhos de graça.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1301,7 +1301,7 @@
    "y": 6112,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, na Cidade Velha, ao lado dos Tribunais e do Alto Fórum. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1323,7 +1323,7 @@
    "y": 7273.8,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Sul, a algumas quadras da Arena. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1345,7 +1345,7 @@
    "y": 8279,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Sul, a caminho do Portão Sul. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1367,7 +1367,7 @@
    "y": 7420.7,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Manufatureiro, entre a Vidraria do Fumo e a Tinturaria Real. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1389,7 +1389,7 @@
    "y": 6455,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Manufatureiro, entre o Curtume do Canal e a Olaria da Escória. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1411,7 +1411,7 @@
    "y": 5451.3,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, nos Canais. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1433,7 +1433,7 @@
    "y": 4875.7,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Leste, perto dos Estábulos das Caravanas. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1455,7 +1455,7 @@
    "y": 4861.5,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, nos Canais. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1477,7 +1477,7 @@
    "y": 3881.6,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito do Saber, perto do Colégio dos Astrônomos. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1499,7 +1499,7 @@
    "y": 3217.3,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Alto, perto do Teatro das Máscaras. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1521,7 +1521,7 @@
    "y": 2226.2,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito dos Templos, entre o Zigurate dos Astros e a Catedral do Amanhecer. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1543,7 +1543,7 @@
    "y": 3076,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito dos Templos, perto do Santuário da Cinza. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1565,7 +1565,7 @@
    "y": 3757.9,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, no Distrito Alto, junto ao Distrito Financeiro. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1587,7 +1587,7 @@
    "y": 2400,
    "secreto": false,
    "arte": [],
-   "historia": "",
+   "historia": "Portal da rede de curto alcance que liga os distritos de Thalasyr, nos Jardins Suspensos. A travessia até outro portal da rede custa 15 gd por pessoa.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1630,7 +1630,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Alto Fórum é o coração político de Thalasyr. No Palácio dos Magistrados, cercado por um jardim formal na Cidade Velha, trabalham os nove magistrados, cada um à frente de uma esfera da cidade: Magia e Saberes Antigos, Defesa Interna, Defesa e Relações Externas, Portais e Planos, Infraestrutura Urbana, Comércio e Economia, Agricultura e Abastecimento, Leis e Justiça, e Cultos e Saúde.\n\nO Magistrado não governa sozinho: ele define as pautas, que só viram lei depois de votadas no Conselho das Vozes. Em volta do palácio ficam os tribunais, os escritórios da administração e os consulados das cidades aliadas, e é nos corredores, mais do que nas salas de reunião, que a política de verdade acontece.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1661,7 +1661,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "No Salão do Conselho das Vozes se reúnem quase cem delegados, que representam distritos, guildas, ordens, comunidades e interesses de toda a cidade. É aqui que as pautas do Magistrado são debatidas e votadas, e nenhuma vira lei sem passar por este plenário.\n\nA Guilda dos Navegadores e o Conclave dos Druidas não têm cadeira no Conselho, mas os dois têm peso de sobra para influenciar quem tem. Nos dias de votação, a esplanada em frente enche de peticionários, curiosos e informantes.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1688,7 +1688,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Salão das Guildas é a casa comum dos ofícios de Thalasyr, um palácio com jardim formal na Cidade Velha. Ali as guildas registram mestres e aprendizes, fecham contratos, resolvem disputas entre ofícios e organizam as feiras em que mostram seus melhores trabalhos. Para quem chega de fora querendo trabalhar ou contratar, é o lugar para descobrir quem é quem em cada ofício.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1719,7 +1719,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Bastião das Correntes é o principal complexo da Ordem das Correntes, a guarda urbana de Thalasyr, à beira do mar na Cidade Velha. Atrás dos muros ficam os quartéis, o pátio de treinamento, o centro de comando, o Arsenal das Correntes e a Prisão do Bastião, além de um cais próprio e de instalações dos Escudos de Vhyras.\n\nDaqui saem as patrulhas, as investigações e a resposta a tumultos em toda a cidade. Quem é preso em Thalasyr quase sempre passa pelo menos uma noite atrás destes muros.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1750,7 +1750,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Porto Velho é o porto mais antigo de Thalasyr, na costa norte da Cidade Velha, dentro da muralha antiga. Foi por aqui que a cidade nasceu, quando o minério descia o Rio do Norte até a baía. Hoje os navios maiores usam o Porto de Ferro, mas o cais continua movimentado: armazéns de pedra, guindastes, barcos de cabotagem e a Alfândega Velha, onde toda carga que entra pela Cidade Velha é registrada e taxada. Ali também está ancorado o Grand Chanty, a taverna flutuante.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1781,7 +1781,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Portal Principal ligava Thalasyr às outras grandes cidades da região, Letharion, Druemhar e Dargrun-Kar, e por ele passava boa parte das viagens e do comércio. Apagou mais ou menos na mesma época em que Rhest foi destruída, e desde então ninguém conseguiu religá-lo. Sem ele, as caravanas protegidas voltaram a ser o único caminho entre as cidades.\n\nO salão continua de pé na Entrância dos Portais, uma das áreas mais vigiadas da cidade. Reativar a rede é uma das pautas mais disputadas de Thalasyr: a Guilda dos Navegadores, que domina o conhecimento dos portais, quer vê-la funcionando de novo, e muita gente quer antes entender o que aconteceu.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1808,7 +1808,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A Casa Ambervale é o banco da família Ambervale, no Distrito Financeiro. Empresta dinheiro a mercadores e, principalmente, segura caravanas e cargas, um negócio que cresceu muito desde que os portais apagaram e as estradas voltaram a ser o único caminho entre as cidades. Quase toda caravana que sai de Thalasyr leva uma apólice Ambervale, e quem perde uma carga nas Wilds costuma voltar ao balcão deles, pedindo um empréstimo para recomeçar.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1835,7 +1835,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A Casa da Moeda cunha o dinheiro de Thalasyr. Atrás de muros grossos e de uma esplanada calçada, no Distrito Financeiro, o metal chega sob escolta, boa parte dele de Dargrun-Kar, passa pelos fornos e pelas prensas e sai em moedas com o selo da cidade. É um dos prédios mais bem guardados de Thalasyr: ninguém entra sem autorização, e nenhuma remessa sai sem guarda armada.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1862,7 +1862,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Banco Municipal guarda o tesouro público de Thalasyr. É aqui que entram os impostos, as tarifas e o pedágio das rotas, e daqui sai o dinheiro das obras, das guardas e do abastecimento. Também aceita depósitos e faz empréstimos a moradores e mercadores, a juros mais modestos que os das casas particulares, e por isso tem sempre fila.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1893,7 +1893,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Porto de Ferro é a principal zona portuária de Thalasyr e o território da Guilda dos Navegadores. Entre navios, armazéns e guindastes fica a vista mais rara da cidade: as Docas dos Airships, com os altos mastros de atracação onde os navios voadores da Guilda param para embarque e reparo.\n\nAirships são poucos, caros e complexos demais para qualquer um construir ou manter, e cada pouso ainda atrai curiosos. Da torre da Guilda, os navegadores coordenam as rotas por mar, por rio e pelo ar.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1920,7 +1920,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Os armazéns e cofres da Guilda dos Navegadores guardam o que chega por mar e pelo ar antes de seguir viagem: cargas em trânsito, mercadorias de alto valor e encomendas que a Guilda prefere não deixar no cais. Os cofres têm fama de ser os mais seguros da cidade, com guarda própria dia e noite, e muitos mercadores pagam para deixar ali o que não confiam a mais ninguém.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1947,7 +1947,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Os Banhos Comunais são as casas de banho públicas do Distrito Alto: salões de piscinas quentes e frias, vapor, massagistas e longos bancos de pedra. Por poucas moedas, qualquer pessoa entra, e justamente por isso todo mundo vai: comerciantes fechando negócios, criados trocando fofocas, delegados conversando longe do Conselho. Dizem que se descobre mais sobre a cidade numa tarde de banho do que numa semana no Alto Fórum.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -1974,7 +1974,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O quartel dos Escudos de Vhyras abriga a unidade de elite da Ordem das Correntes dedicada às ameaças mágicas dentro da cidade: artefatos perigosos, maldições, criaturas invocadas, fenômenos arcanos instáveis e conjuradores que perderam o controle. Os Escudos são poucos e muito capazes; respondem à Ordem, mas agem com bastante autonomia.\n\nQuando algo mágico explode em Thalasyr, são eles que chegam primeiro. A rivalidade com a Inquisição Penitente, que às vezes disputa os mesmos casos, é antiga e nem sempre amigável.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2013,7 +2013,7 @@
      "legenda": ""
     }
    ],
-   "historia": "Torres dos magos e ligas de artificers",
+   "historia": "As Torres Arcanas reúnem as torres dos magos e as oficinas das ligas de artífices. No centro fica a Torre do Lacre, sede da Ordem dos Magos, cercada por três torres seladas e por uma área protegida por selos que ninguém atravessa sem permissão.\n\nEm volta, laboratórios, salas de pesquisa e oficinas alquímicas dividem as ruas com as bancadas dos artífices, e a convivência entre a teoria dos magos e a prática dos artífices rende tanto invenções quanto discussões. É aqui que se estudam artefatos, se pesquisa magia antiga e se desenvolve boa parte da tecnologia da cidade.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2052,7 +2052,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A Biblioteca Central é o maior acervo de Thalasyr, no coração do Distrito do Saber, entre a universidade e os colégios. Salões com estantes até o teto, galerias, salas de leitura e um claustro guardam livros, mapas, registros da cidade e textos antigos de toda a região. Estudantes e mestres a usam de dia e de noite; qualquer pessoa pode consultar as salas abertas, mas as coleções raras ficam trancadas e exigem autorização.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2079,7 +2079,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Templo da Chama Pálida é a casa da Ordem da Chama Pálida, uma das ordens religiosas mais fortes de Thalasyr, dedicada à vida, à morte e à passagem entre as duas. Seus clérigos conduzem os ritos funerários da cidade, consagram os mortos para que descansem e cuidam de quem está morrendo.\n\nDesde a queda de Rhest, com os mortos se levantando e a cidade mais supersticiosa, o templo vive cheio. A Ordem trabalha lado a lado com a Inquisição Penitente sempre que o problema é necromancia ou mortos ou visitantantes das camadas inferiores",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2106,7 +2106,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A Inquisição Penitente, a antiga Vigília Escarlate, tem aqui a sua sede. Os inquisidores caçam o que vem de fora deste mundo ou se esconde nele: hags, demônios, cultos heréticos, pactos profanos e toda forma de corrupção extraplanar. A ordem prega penitência, purificação e vigilância, e reúne clérigos, inquisidores e combatentes treinados para esse trabalho. As vezes usam de justificativas religiosas para lidar com opositores, de acordo com os comandos do alto escalão da igerja da Chama Pálida. Apesar de ser um grupo belicoso e muitos vezes vilento, não possue grande presença na cidade como um todo, atuando de formas mais pontuais. O governo os aceita preincipalmente por causa da grnade influência da Chama Pálida.\n\nDesde a queda de Rhest, com a cidade mais supersticiosa e cultos brotando nos becos, a Inquisição se tornou mais ativa do que nunca, e quem tem algo a esconder evita passar em frente ao pátio.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2145,7 +2145,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A Necrópole é a grande cidade dos mortos de Thalasyr, no Distrito dos Templos: ruas de mausoléus, criptas das famílias antigas e catacumbas. Como os outros cemitérios da cidade, tem muros altos, portões trancados ao anoitecer e torres de vigia, porque em Thalasyr os mortos nem sempre ficam onde foram enterrados. Os clérigos da Chama Pálida conduzem os ritos de dia e fazem rondas à noite.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2180,7 +2180,7 @@
      "legenda": ""
     }
    ],
-   "historia": "Aqui é onde ficam as armas e armaduras produzidas para a guarda, bem como maquinas de cerco e armamentos mais peculiares",
+   "historia": "Aqui é onde ficam as armas e armaduras produzidas para a guarda, bem como máquinas de cerco e armamentos mais peculiares. O Arsenal Municipal fica no Distrito Manufatureiro, perto das serrarias e oficinas que o abastecem, e é dele que saem as balistas e a munição da muralha sul. O acesso é restrito: só entram oficiais, artífices contratados e carroças com escolta.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2207,7 +2207,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Aqui fica o quartel dos Patrulheiross da Muralha. Os Patrulheiros não são um exército: são grupos de elite pequenos e experientes que patrulham as fronteiras, caçam as criaturas das terras além muros, protegem estradas e acessos e organizam expedições.\n\nDesde que os mortos-vivos começaram a atravessar a Floresta Ainlaren e a atacar a muralha sul, o quartel não dorme. Quando faltam braços, os Patrulheiros contratam aventureiros, e não é raro ver os contratos delas pregados nos quadros das tavernas.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2242,7 +2242,7 @@
      "legenda": ""
     }
    ],
-   "historia": "Trabalhadores são os valerianos",
+   "historia": "O Coliseu das Areias Vermelhas é a grande arena de combate de Thalasyr, no Distrito Sul. Nas tardes de luta, as arquibancadas lotam para ver duelos, desafios entre campeões e combates contra feras trazidas das natureza selvagem, e as apostas correm soltas dentro e fora dos muros. A areia que dá nome ao lugar é trocada todos os dias e nunca fica clara por muito tempo.\n\nOs trabalhadores do coliseu são os valerianos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2273,7 +2273,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Porto Sul é o porto popular de Thalasyr, no Distrito Sul, o bairro mais populoso da cidade. Ao longo da Rua do Porto se alinham a capitania, a Alfândega do Sul, o Mercado do Peixe, a Cordoaria Real e a Taverna do Arpão, entre armazéns, cais e guindastes. É o porto dos pesqueiros, dos barcos de cabotagem e de grandes cargas, tudo nele é barulhento, lotado e cheira a peixe e alcatrão.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2308,7 +2308,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Conclave dos Therdurin mantém esta casa nos Jardins Suspensos, no alto dos socalcos do vale do Rio do Norte. O Conclave não é uma instituição da cidade e não tem cadeira no Conselho das Vozes, mas Thalasyr come graças a ele: são os druidas que mantêm férteis os jardins suspensos e os campos, cuidam dos rebanhos e ajudam as aldeias da região.\n\nEles evitam a política tanto quanto podem, e talvez por isso, quando falam, todos escutam. A casa é aberta para todos, sendo os principais visitantes druidas de passagem e lavradores com problemas na terra. A Guilda dos Navegadores vê o Conclave como rival em questão de influência, já os druidas optam pelo isolamento e buscam soluções passíficas.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2343,7 +2343,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Os silos e armazéns municipais guardam as reservas de grão e mantimentos de Thalasyr, ao pé dos Jardins Suspensos, por onde desce boa parte da colheita. Fileiras de silos, celeiros e pátios de carga recebem a produção dos socalcos e dos campos e abastecem os mercados da cidade, sob a responsabilidade do Magistrado de Agricultura e Abastecimento. Com a cidade maior desde a chegada dos refugiados de Rhest, as reservas são acompanhadas de perto e os portões vivem vigiados.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2370,7 +2370,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O farol de Thalasyr fica no Ilhéu das Gaivotas, sobre as pedras na entrada da baía. A luz guia os navios entre os ilhéus e os cabos de pedra até os portos da cidade, e em noite de tempestade é a única coisa que separa um barco dos rochedos.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2397,7 +2397,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "Saltmarsh Manor é um casarão abandonado perto das falésias, ao norte da cidade, fora da Muralha Norte, entre as Lavouras do Loryath e o mar. Era a casa de um velho alquimista recluso que um dia sumiu sem deixar rastro, e desde então ninguém mora ali. O jardim formal virou mato, as janelas estão quebradas e as árvores em volta secaram.\n\nOs lavradores da região juram ver luzes lá dentro e ouvir gritos em noites sem lua, e ninguém chega perto depois do anoitecer. O casarão continua de pé, à espera de quem tenha coragem de entrar.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2428,7 +2428,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "A House of Favelli é a casa de alta-costura da Ilustre Madame Favelli. Ela passou a vida fazendo figurinos de teatro, centenas de peças e milhares de trajes, até sentir falta de um desafio novo: despediu-se dos palcos, pegou um empréstimo e veio abrir a própria casa nos Canais de Thalasyr. Hoje, na meia-idade, tem fama de excelência e clientes entre os poderosos de todos os lados, e talvez por isso mesmo quase nunca apareça em público.\n\nTudo é feito sob medida, e as roupas são encantadas: calças com bolsos que guardam muito mais do que parece, mantos que viram barco, vestes de malha de mithral leves como algodão. Na recepção, quem avalia cada cliente antes de chamar a Madame é Dhavaak Bloodfang, um meio-orc de terno impecável e o funcionário mais antigo da casa. A aprendiz Aralypsis, a Ari, uma tiferina tagarela que largou a escola de magia, sonha em ser a melhor encantadora da casa e em ter um dia uma magia e uma peça com o próprio nome.",
    "elenco": [],
    "elencoImagens": [
     {
@@ -2472,7 +2472,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Portão Sul, o Golden Gate, abre a Muralha para as Planícies do Sul e, mais adiante, para a Floresta Ainlaren, hoje também conhecida como Floresta Corrompida. É o portão mais perigoso da cidade: diante dele se estendem os Campos Abandonados, a muralha está remendada com andaimes em vários trechos e a Bateria de Balistas do Portão Sul vigia a estrada dia e noite. Quase ninguém sai por aqui sem motivo, e quem sai costuma ser os Patrulheiros da Muralha ou aventureiro contratado por eles.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2499,7 +2499,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Portão da Costa, o Bronze Gate, é a saída da cidade pela beira-mar, entre o Distrito Sul e os Escombros do Lamento. Leva ao cais abandonado nas ruínas, o velho porto abandonado de píeres quebrados, barcos afundados e armazéns meio submersos, e à estrada que segue pela costa. O movimento é pouco, e à noite o portão tem fama de deixar passar mais coisas do que deveria.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2526,7 +2526,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Portão Leste, o Silver Gate, é a porta das caravanas. Por ele entram e saem os comboios que, desde que os portais apagaram, mantêm vivo o comércio com as outras cidades. Ao lado ficam os Estábulos das Caravanas e o Posto do Pedágio das Rotas, onde se paga a taxa das estradas, e do lado de fora cresceu o Arrabalde do Portão Leste, de estalagens, ferradores e carroceiros. Daqui, a Avenida das Caravanas segue até a Ponte dos Artífices.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2553,7 +2553,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Portão Norte, o Brass Gate, abre a Muralha Norte para o planalto: os Campos, o Arrabalde dos Campos logo do lado de fora, as Lavouras do Loryath e, mais adiante, a Vila do Lago, na margem do Lago Loryath. É o portão dos lavradores e dos carros de grão. De madrugada, a fila de carroças com a colheita para os celeiros da cidade começa antes de o portão abrir.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
@@ -2580,7 +2580,7 @@
      "legenda": ""
     }
    ],
-   "historia": "",
+   "historia": "O Portão das Montanhas, o Copper Gate, fecha o vale do Rio do Norte no ponto em que a Muralha Norte encontra as Montanhas do Escudo Rubro. Por aqui passava o caminho do minério, que descia das montanhas e fez nascer a Cidade Velha. Desde que as minas de Khundrukar foram abandonadas, o movimento caiu: hoje passam pastores, caçadores, druidas a caminho das montanhas e, de vez em quando, um grupo de aventureiros que sobe para onde ninguém mais vai.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
