@@ -1,6 +1,6 @@
 {
  "versao": 2,
- "salvo_em": "2026-11-20T14:20:17.022Z",
+ "salvo_em": "2026-11-20T14:23:58.755Z",
  "mapa": {
   "titulo": "Thalasyr",
   "W": 7000,
@@ -30,7 +30,7 @@
   },
   {
    "id": "t-mwmnsbukdw5fy",
-   "nome": "Portais de Curto Alcance (15 gd / pessoa)",
+   "nome": "Portais de Curto Alcance",
    "cor": "#6b4f9a",
    "icone": "estrela",
    "aba": ""
@@ -2308,7 +2308,7 @@
      "legenda": ""
     }
    ],
-   "historia": "O Conclave dos Therdurin mantém esta casa nos Jardins Suspensos, no alto dos socalcos do vale do Rio do Norte. O Conclave não é uma instituição da cidade e não tem cadeira no Conselho das Vozes, mas Thalasyr come graças a ele: são os druidas que mantêm férteis os jardins suspensos e os campos, cuidam dos rebanhos e ajudam as aldeias da região.\n\nEles evitam a política tanto quanto podem, e talvez por isso, quando falam, todos escutam. A casa é aberta para todos, sendo os principais visitantes druidas de passagem e lavradores com problemas na terra. A Guilda dos Navegadores vê o Conclave como rival em questão de influência, já os druidas optam pelo isolamento e buscam soluções passíficas.",
+   "historia": "O Conclave dos Therdurin mantém esta casa nos Jardins Suspensos, no alto dos socalcos do vale do Rio do Norte. O Conclave não é uma instituição da cidade e não tem cadeira no Conselho das Vozes, mas Thalasyr come graças a ele: são os druidas que mantêm férteis os jardins suspensos e os campos, cuidam dos rebanhos e ajudam as aldeias da região.\n\nEles evitam a política tanto quanto podem, e talvez por isso, quando falam, todos escutam. A casa é aberta para todos, sendo os principais visitantes druidas de passagem e lavradores com problemas na terra. A Guilda dos Navegadores vê o Conclave como rival em questão de influência, já os druidas optam pelo isolamento e buscam soluções pacíficas.",
    "elenco": [],
    "elencoImagens": [],
    "mapa": {
