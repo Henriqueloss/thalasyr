@@ -1,0 +1,2599 @@
+// Cópia de lugares.json para abrir o site direto do computador.
+window.ATLAS_DADOS = {
+ "versao": 2,
+ "salvo_em": "2026-11-20T12:40:03.225Z",
+ "mapa": {
+  "titulo": "Thalasyr",
+  "W": 7000,
+  "H": 10000
+ },
+ "tipos": [
+  {
+   "id": "t-mwmbswmh3mzlo",
+   "nome": "Tavernas Únicas",
+   "cor": "#9b3d1d",
+   "icone": "caneca",
+   "aba": ""
+  },
+  {
+   "id": "t-mwmd9ios34r0t",
+   "nome": "Shops Únicos",
+   "cor": "#2f5d8a",
+   "icone": "moeda",
+   "aba": ""
+  },
+  {
+   "id": "t-mwmn0kjpg7457",
+   "nome": "Shops Genéricos",
+   "cor": "#4d4a45",
+   "icone": "",
+   "aba": ""
+  },
+  {
+   "id": "t-mwmnsbukdw5fy",
+   "nome": "Portais de Curto Alcance (15 gd / pessoa)",
+   "cor": "#6b4f9a",
+   "icone": "estrela",
+   "aba": ""
+  },
+  {
+   "id": "t-mwmo4mx777k01",
+   "nome": "Lugares de Interesse",
+   "cor": "#2f7a4b",
+   "icone": "",
+   "aba": ""
+  },
+  {
+   "id": "t-mwo7wxqban9lz",
+   "nome": "Portões",
+   "cor": "#1f7f86",
+   "icone": "torre",
+   "aba": ""
+  }
+ ],
+ "lugares": [
+  {
+   "id": "l-mwmbswmh82chy",
+   "num": 1,
+   "nome": "The Wizard's Watering Hole",
+   "tipo": "t-mwmbswmh3mzlo",
+   "x": 4598.4,
+   "y": 3810.1,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmbvj2133val.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmbthszkh938.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo5nc1ewmsbf.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmbtht3k093n.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "Com três andares de altura e cercada por luzes dançantes e espetáculos ilusórios, o Antro do Mago (The Wizard's Watering Hole) convida todos os forasteiros a visitá-lo. Esta taverna amplamente renomada estabeleceu uma reputação de empolgação e estranheza arcana. A taverna aparentemente funciona sozinha, conjurando todos os seus bens e serviços a partir de magias poderosas e permanentes.",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo4vgtnhny62.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo4vgti0powa.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo4vufynktvo.webp",
+      "legenda": "",
+      "mestre": false
+     },
+     {
+      "img": "imagens/img-mwo4vufurtqv6.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmcb97v59uea.webp",
+     "imagens/img-mwmcb97pvdw4z.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmd9iosa7fi4",
+   "num": 7,
+   "nome": "Blade of Glory",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 1632.8,
+   "y": 3314.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmdighr6kcsu.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo5tx2oz0lma.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "A aventura é um negócio arriscado. A maioria dos que se aventuram acaba sendo levada pela própria aventura antes do fim do ano. Para os que vivem mais tempo, a mera sobrevivência é o melhor que podem esperar. Mas para os poucos selecionados cuja astúcia ardilosa e propensão à violência bastam para lhes abençoar com carreiras longas e prósperas, a riqueza e a fama que conquistam são suficientes para tornar seu sofrimento válido a pena. Essas pessoas são o melhor do melhor, convidadas para as Lâminas da Glória (Blades of Glory), uma guild lendária de aventureiros lendários.\n\nO Salão das Lâminas é construído com colunas de mármore negro como as de um banco e frisos folheados a ouro como os de um templo. Aparentemente, é uma estalagem. Alguns mercadores ricos e nobres viajantes hospedam-se em seus quartos inferiores, maravilhando-se com o modo como a luz dos lustres de cristal do saguão cintila nas paredes de cor verde-negra revestidas de adamantina, sem saber dos segredos que essas paredes ocultam.\n\nAos olhos do mundo, os aventureiros parecem todos jovens arrivistas ávidos por riqueza rápida, mas as Lâminas da Glória são dignas e orgulhosas de sua história. Apresentam-se como nobreza de origem humilde, cuja riqueza é conquistada em suas aventuras e não herdada. Os móveis ricos em mogno do Salão da Glória, as tapeçarias históricas e o senso de estilo impecavelmente elegante certamente dão essa impressão. Aqueles convidados para as fileiras das Lâminas da Glória podem usufruir de suas salas de troféus, bibliotecas, gabinetes de estudo, salões, salas de degustação, aposentos privados e arsenais. É o centro único para o aventureiro de bom gosto e prestígio.\n\nEmbora seu andar mais baixo seja um hotel caro, seus andares superiores são reservados para sua clientela verdadeiramente poderosa de aventureiros poderosos. Ninguém tem permissão para saber onde fica este estabelecimento e, mais importante ainda, nenhum outro tem permissão sequer de saber de sua existência para começar.",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6w49s36av1.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6w49hz5n7e.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmdnal35aimw.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmdnglo6vigq.webp",
+     "imagens/img-mwmdnglr45ldp.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwme3yuy6v58s",
+   "num": 2,
+   "nome": "The Bloated Bounty",
+   "tipo": "t-mwmbswmh3mzlo",
+   "x": 4736,
+   "y": 8130,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwme59ipb2toq.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmebz7747leu.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo5oga11qhzt.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmeo1m91r8tz.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "A taverna The Bloated Bounty é o epítome das tavernas obscuras de becos, e serve como o lugar perfeito para uma mistura de falcatruas e planejamento criminoso. As nuances sutis das transações que ocorrem aqui são quase impossíveis de decifrar para qualquer um, exceto para um ladino  extremamente atento. Os visitantes fariam bem em ficar de olho nas costas, não demorar muito e ter cuidado para não escutar atrás das portas. O atrativo do Bloated Bounty está no seu nome, todos os trabalhos oferecidos aqui são de alto risco e alta recompensa.\n\nO Bloated Bounty é um edifício grande e discreto em uma parte abandonada da cidade. A maneira mais fácil de saber sobre o Bloated Bounty é através dos nobres corruptos ou criminosos poderosos que frequentam o lugar. O grupo pode ser convidado para o local para uma reunião clandestina, seguir um rival até o edifício, ou tropeçar nele como uma cruel fatalidade. O exterior sem graça e as paredes grossas escondem completamente a corrupção e a maldade lá dentro...",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo59rlntsbhe.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo59rlrfql1l.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo59rlib2zye.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo5akjms1dzd.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmecbjkyawf8.webp",
+     "imagens/img-mwmecbjg4eoyt.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmew0wycqz1m",
+   "num": 3,
+   "nome": "The Dancing Horse",
+   "tipo": "t-mwmbswmh3mzlo",
+   "x": 5696.2,
+   "y": 4963.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmewwgq3172i.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo5p7dx4wued.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmewwgnufvz5.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmewwgblep1p.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "The Dancing Horse repousa no centro do Distrito Leste, cercado por barracas de comerciantes e estábulos para atender a todas as necessidades de um viajante. Os moradores da cidade se referem a este ponto de convívio como “um segundo lar”, deleitando-se com a energia festiva e embriagada que prevalece a cada pôr do sol. Tendo aberto inicialmente para receber viajantes, este local generoso tem acomodações e pensão para membros de todos os tipos.\n\nO Cavalo Dançante é o que todas as tavernas e estalagens almejam ser. Com toda a magia e nuances da fantasia à parte, este é um refúgio de tudo, exceto das intrigas dos viajantes. A maioria dos hóspedes que visita o Cavalo Dançante tem negócios em outro lugar e, de uma forma nada natural, suas tarefas sempre têm grande importância, mesmo que eles não tenham consciência disso. ",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo5cvz0e5gse.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5cvynarkzo.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmg59zsgkdmu.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmexot05jfls.webp",
+     "imagens/img-mwmexosxueopr.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmfbr8agt2di",
+   "num": 4,
+   "nome": "Poor Larry's",
+   "tipo": "t-mwmbswmh3mzlo",
+   "x": 3457,
+   "y": 7212.5,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmfcf03las81.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmfcf00mdq6n.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmfcezoosspc.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo5dx8qvk5dg.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5dx8nqophv.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo5e76m7n801.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmfcxlo2wunp.webp",
+     "imagens/img-mwmfcxlkq9kp2.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmfibrhuup2h",
+   "num": 5,
+   "nome": "The Grand Chanty",
+   "tipo": "t-mwmbswmh3mzlo",
+   "x": 3093.7,
+   "y": 5400.8,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmfiweze9hhg.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmfiwevhajm5.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo5pzcvht50q.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmfiwej1pkrn.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo5i32wsm0s6.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5i32tz3x6f.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo5i32ovclok.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo5ilzv47482.webp",
+      "legenda": "",
+      "mestre": false
+     },
+     {
+      "img": "imagens/img-mwo5ilzy7bbyv.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmfjqb46ug9b.webp",
+     "imagens/img-mwmfjqb06jll0.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmfqi4d1cmp8",
+   "num": 6,
+   "nome": "The Dungeon of Darkness",
+   "tipo": "t-mwmbswmh3mzlo",
+   "x": 2278.8,
+   "y": 9199.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmfr4o40u6yl.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmfr4o0qur12.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo4udfh2mvl6.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmfr4nogzs67.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo4szw0obh9q.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo4ta252p2yw.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo4rz3qm7wg9.webp",
+      "legenda": "",
+      "mestre": false
+     },
+     {
+      "img": "imagens/img-mwo4rz3uedps2.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmfu4yatk5x8.webp",
+     "imagens/img-mwmfu4xykwolg.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmgc0ns09zss",
+   "num": 8,
+   "nome": "Wayward Wheel",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 4158.5,
+   "y": 3917,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmgcmmt8ey3x.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmgcmmq2mkra.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6wd6t2gt7i.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6wd6pbd88a.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmlre5v4dtpj.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmgcu7rbniqo.webp",
+     "imagens/img-mwmgcu7gdaucq.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmgg7py2g5w2",
+   "num": 9,
+   "nome": "The Basement",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 3654.5,
+   "y": 6113.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmlrtgv1dt6h.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmlrtgjeg1vu.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6wnx6jopbn.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6wnx34z9ga.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmlsaioxy96j.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmlsg4h3cy8b.webp",
+     "imagens/img-mwmlsg48c39cz.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmgis02ap2n5",
+   "num": 10,
+   "nome": "The Seeker’s Big House for Planar Pets",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 4938.8,
+   "y": 5338.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmlu8o6n15sa.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmlu8o32wbon.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6xbox0vb81.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6xbot3t5ab.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo6xboh7a6mn.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmlunwsqxka5.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmluv15wvlk5.webp",
+     "imagens/img-mwmluv11fwism.webp",
+     "imagens/img-mwmluv0xw9362.webp",
+     "imagens/img-mwmluv0tp3nyd.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmgus944iwtk",
+   "num": 11,
+   "nome": "The Black Market",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 4695.6,
+   "y": 7470.5,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmly1pacxila.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmly1p7r242e.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6zo3ymia8z.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmlyc646u7ht.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmlygwrz60nt.webp",
+     "imagens/img-mwmlygwn3rte5.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmh13wt8qh1h",
+   "num": 12,
+   "nome": "The Hedgerow",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 3620.9,
+   "y": 2511.8,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmm16fyzyouq.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmm16for6g0x.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo7163pixf6u.webp",
+     "legenda": "",
+     "mestre": false
+    },
+    {
+     "img": "imagens/img-mwo7163ea2d2l.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmm1f8cmqits.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmm1txvn74nf.webp",
+     "imagens/img-mwmm1txjdphbi.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmh5gy2evayb",
+   "num": 13,
+   "nome": "Daydee's Magical Muffins",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 3592.6,
+   "y": 4565.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmm28skazc2a.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwmm28sggpe19.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo71e01v9a09.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwmm2p9xu9ovu.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwmm42zy5kiq1.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn0kjpeef11",
+   "num": 14,
+   "nome": "Tinkering Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 4433.4,
+   "y": 4076.6,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnf8xh4hzpj.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn10mad2rao",
+   "num": 15,
+   "nome": "Temple and Faith Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 1652,
+   "y": 2560,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnfeqcep6u2.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn1k6gpxfko",
+   "num": 16,
+   "nome": "Tailor and Textiles",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5543.7,
+   "y": 5303.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnfl2010wv2.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn1zgx4u3cy",
+   "num": 17,
+   "nome": "Stables",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5968,
+   "y": 4652.8,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnfpc9zkd5t.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn2h4qrz9jj",
+   "num": 18,
+   "nome": "Musical Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 2595,
+   "y": 2997,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnfukrfocbm.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn2tt29j1em",
+   "num": 19,
+   "nome": "Leatherworker",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5066,
+   "y": 6494,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnfzz4rcrn2.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn3356k1285",
+   "num": 20,
+   "nome": "Jeweler",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 1876.6,
+   "y": 3662.8,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmng79m9gob8.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn3r2v876v7",
+   "num": 21,
+   "nome": "Inn / Tavern",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 4388.2,
+   "y": 4528.5,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmngd2di2pv7.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn450hupjxh",
+   "num": 22,
+   "nome": "General Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5363.3,
+   "y": 5023.2,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmngiutz6sv6.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn4kjy9pn3e",
+   "num": 23,
+   "nome": "Fletcher / Woodworking",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5384,
+   "y": 6108,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmngpwbdfqds.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn5ezr1ec4q",
+   "num": 24,
+   "nome": "Druidic Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 4646.4,
+   "y": 3579.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmngxm5ketfi.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmn9cbl35p6i",
+   "num": 25,
+   "nome": "Docks Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 3535.5,
+   "y": 5456.1,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnh2x9pri3e.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnavy6cgzjl",
+   "num": 26,
+   "nome": "Criminal and Ilicit Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 2622,
+   "y": 8236.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnh7xwk5vfw.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnbiz2uk4g2",
+   "num": 27,
+   "nome": "Bookbinder / Antiquarian",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5253,
+   "y": 4050,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnhcuno25v1.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnc1bd1vq4s",
+   "num": 28,
+   "nome": "Banks",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 2118,
+   "y": 4350,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnhhtuu38ns.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnciybev8wy",
+   "num": 29,
+   "nome": "Armourer / Backsmith",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 4082,
+   "y": 6468,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnhnbrwebop.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnczhmcvjq8",
+   "num": 30,
+   "nome": "Arcane Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 3363.1,
+   "y": 3581.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnhsvbzd7ng.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmndxpavomfo",
+   "num": 31,
+   "nome": "Alchemist / Apothecaries",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 3604.5,
+   "y": 3053.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmnhyjje8ek2.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmneld4yf5wb",
+   "num": 32,
+   "nome": "Adventures Store",
+   "tipo": "t-mwmn0kjpg7457",
+   "x": 5886,
+   "y": 5112.4,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmni436e0hxy.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnsbukggcax",
+   "num": 33,
+   "nome": "Portal 1",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 3001,
+   "y": 6112,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnub3gpez6b",
+   "num": 34,
+   "nome": "Portal 2",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 3212.2,
+   "y": 7273.8,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnugwcrrbr5",
+   "num": 35,
+   "nome": "Portal 3",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 3261.5,
+   "y": 8279,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnuz3yfr2qv",
+   "num": 36,
+   "nome": "Portal 4",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 4376.3,
+   "y": 7420.7,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnv4s9frpth",
+   "num": 37,
+   "nome": "Portal 5",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 5541.7,
+   "y": 6455,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnveir75v27",
+   "num": 38,
+   "nome": "Portal 6",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 4300.2,
+   "y": 5451.3,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnvsl0nxted",
+   "num": 39,
+   "nome": "Portal 7",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 5527.4,
+   "y": 4875.7,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnw1zhvdagz",
+   "num": 40,
+   "nome": "Portal 8",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 3629.5,
+   "y": 4861.5,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnw9jburltt",
+   "num": 41,
+   "nome": "Portal 9",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 4457.1,
+   "y": 3881.6,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnwlcpd8szf",
+   "num": 42,
+   "nome": "Portal 10",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 2952,
+   "y": 3217.3,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnwx7qangfm",
+   "num": 43,
+   "nome": "Portal 11",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 2711.4,
+   "y": 2226.2,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnxcq3ne5fo",
+   "num": 44,
+   "nome": "Portal 12",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 1175.6,
+   "y": 3076,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnxjl5qe4x2",
+   "num": 45,
+   "nome": "Portal 13",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 2069.2,
+   "y": 3757.9,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmnxuuuk4ap5",
+   "num": 46,
+   "nome": "Portal 14",
+   "tipo": "t-mwmnsbukdw5fy",
+   "x": 3592,
+   "y": 2400,
+   "secreto": false,
+   "arte": [],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo4mx711gzq",
+   "num": 47,
+   "nome": "Alto Forum -  Magistrado Central",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 3026.5,
+   "y": 5887.8,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8tn3b0uiu8.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxwt48km0.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxww9n7m1.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxwznrtku.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7jxx1ynkxr.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo67mti69z6",
+   "num": 48,
+   "nome": "Conselho das Vozes",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 3463,
+   "y": 5847.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8qtiba25gn.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8qti0wrzew.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo6y5mlyb6c",
+   "num": 49,
+   "nome": "Salão das Guildas",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 3213.2,
+   "y": 6131.6,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8p9z1tjfs5.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo82w4xgnuk",
+   "num": 50,
+   "nome": "Bastião das Correntes",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2635.3,
+   "y": 6131.6,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7nyrg6bi3o.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7sc68ikngm.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo8g16rcun7",
+   "num": 51,
+   "nome": "Porto Velho",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 3310.8,
+   "y": 5463.2,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7kmm3uyxwu.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyk5vh81ut0.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo8uiugwkjj",
+   "num": 52,
+   "nome": "Portal Principal (Desativado)",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2989.7,
+   "y": 6221.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwoyqlkkvx9qn.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyqlko59z9l.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmo9xy8setze",
+   "num": 53,
+   "nome": "Casa Ambervale",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2269,
+   "y": 4504.7,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo5jrpsrkqiz.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoa5zdg8xh4",
+   "num": 54,
+   "nome": "Casa da Moeda",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2260.7,
+   "y": 3967.2,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo90f34ntsmx.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoalqb6lnlm",
+   "num": 55,
+   "nome": "Banco Municipal",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2619.8,
+   "y": 4238.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo906dd67gx7.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmobl6j2kvs0",
+   "num": 56,
+   "nome": "Porto de Ferro / Docas de Airships",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 1899.6,
+   "y": 3395.5,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo78ooximhck.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo78op84adr4.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoc8ae35ju5",
+   "num": 57,
+   "nome": "Amazém e Cofres da Guilda de Navegadores",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 1961.8,
+   "y": 3464.5,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo79guqpb4hr.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmodbil8nni1",
+   "num": 58,
+   "nome": "Banhos Comunais",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2980,
+   "y": 3629,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmpo38qoctqe.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoe0niqsw6d",
+   "num": 59,
+   "nome": "Quartel Escudos de Vhyris",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2685.8,
+   "y": 3182,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7t3pa28ama.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoez2k0gl1h",
+   "num": 60,
+   "nome": "Torres Arcanas",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 4072.9,
+   "y": 4006.5,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7pfuuig31p.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7pfuypm49q.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7pfv04qj4s.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo93fki7q737.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "Torres dos magos e ligas de artificers",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmofuqkdqeu1",
+   "num": 61,
+   "nome": "Biblioteca Central",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 5556,
+   "y": 3952.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8uqrzju1xt.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7ro0l8u0hi.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7ttiy7loaa.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo92lli5be5h.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoh5vfnuzxb",
+   "num": 62,
+   "nome": "Templo da Chama Pálida",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2366,
+   "y": 2278.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmpnqry2tx73.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmohv98pnymb",
+   "num": 63,
+   "nome": "Inquisição Penitente",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2578.1,
+   "y": 2532.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo86zbbkcrv6.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoms2yjk4od",
+   "num": 64,
+   "nome": "Necrópole",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 972,
+   "y": 2686,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8x7nfvsldr.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo87i68aqac9.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8x7njsuy49.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyu1njv7mml.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoo01f9cddg",
+   "num": 65,
+   "nome": "Arsenal Municipal",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 4019.5,
+   "y": 6771.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8w6j63ap6b.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8od4ibbhwf.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo8od4l0hqqm.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "Aqui é onde ficam as armas e armaduras produzidas para a guarda, bem como maquinas de cerco e armamentos mais peculiares",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmopzy3ngfk1",
+   "num": 66,
+   "nome": "Quartel Patrulheiros das Muralhas",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 4070,
+   "y": 8523,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7mwgyypsoh.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoyb13fugwh",
+   "num": 67,
+   "nome": "Coliseu das Areias Vermelhas",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 3420,
+   "y": 7574.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7m5jc3e6e1.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7m5j80y34s.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7m5iyf9aje.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "Trabalhadores são os valerianos",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmoz247ao395",
+   "num": 68,
+   "nome": "Porto Sul",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 2746,
+   "y": 7840.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwoyjkiir1mts.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwoyjki7wglo3.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmozw52trz0t",
+   "num": 69,
+   "nome": "Conclave de Thedurin",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 4560,
+   "y": 2652,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7eww6zlfrs.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7e2oq607cf.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo7e2ou7fq7g.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmp0yyg54xjz",
+   "num": 70,
+   "nome": "Armazéns / Silos Municipais",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 4344.1,
+   "y": 3615.9,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7v0b4k95kp.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo91f1eab9rm.jpg",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo92426sxrqo.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmp4b4zrpqqt",
+   "num": 71,
+   "nome": "Farol",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 1032.6,
+   "y": 6818,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwoy9qw5yf8vb.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwmpy1rsxyhsa",
+   "num": 72,
+   "nome": "Saltmarsh Manor",
+   "tipo": "t-mwmo4mx777k01",
+   "x": 482.7,
+   "y": 775.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwmq0gpng6o64.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo6asd4up4or",
+   "num": 73,
+   "nome": "House of Favelli",
+   "tipo": "t-mwmd9ios34r0t",
+   "x": 4052.8,
+   "y": 5437.1,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo6hg8lt8c1y.webp",
+     "legenda": ""
+    },
+    {
+     "img": "imagens/img-mwo6iyrp2wiae.webp",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [
+    {
+     "img": "imagens/img-mwo6hpwev5xjo.webp",
+     "legenda": "",
+     "mestre": false
+    }
+   ],
+   "mapa": {
+    "imagens": [
+     {
+      "img": "imagens/img-mwo6hm4is8z7w.webp",
+      "legenda": "",
+      "mestre": false
+     }
+    ],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [
+     "imagens/img-mwo6hx595t9ah.webp",
+     "imagens/img-mwo6hx574pr6c.webp",
+     "imagens/img-mwo6hx4s1eq9t.webp",
+     "imagens/img-mwo6hx53k4ozl.webp"
+    ],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo7wxqbgjfbr",
+   "num": 74,
+   "nome": "Golden Gate / Portão Sul",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 3480,
+   "y": 8706,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo7yx9ix91el.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo8080yihyf2",
+   "num": 75,
+   "nome": "Bronze Gate / Portão da Costa",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 2264,
+   "y": 8384,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo80fxaa4rim.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo848z2mej6s",
+   "num": 76,
+   "nome": "Silver Gate / Portão Leste",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 6034,
+   "y": 4906.7,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo84gtwg87bj.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo8ije5xqjhy",
+   "num": 77,
+   "nome": "Brass Gate / Portão Norte",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 2225,
+   "y": 2139.2,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8iq6zhv8zj.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  },
+  {
+   "id": "l-mwo8m8ohepoiy",
+   "num": 78,
+   "nome": "Copper Gate / Portão das Montanhas",
+   "tipo": "t-mwo7wxqban9lz",
+   "x": 3747,
+   "y": 1325.3,
+   "secreto": false,
+   "arte": [
+    {
+     "img": "imagens/img-mwo8mf2v7bu4h.jpg",
+     "legenda": ""
+    }
+   ],
+   "historia": "",
+   "elenco": [],
+   "elencoImagens": [],
+   "mapa": {
+    "imagens": [],
+    "notas": ""
+   },
+   "catalogo": {
+    "titulo": "",
+    "imagens": [],
+    "itens": []
+   }
+  }
+ ],
+ "areas": []
+};
